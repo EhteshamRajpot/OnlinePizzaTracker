@@ -1,0 +1,14 @@
+nav{
+	background: rgb(2, 24, 48);
+	height: 100px;
+	
+}
+#navbarCollapse{
+		  background:  rgb(2, 24, 48);
+		  /* padding-left: 10px; */
+}
+.container-fluid{
+	padding: 0%;
+}
+
+

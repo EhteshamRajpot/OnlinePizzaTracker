@@ -1,0 +1,7 @@
+#footer{
+	/* background: url("./abc.jpg") center no-repeat; */
+	background-size: cover;
+	padding-top: 150px;
+	padding-bottom: 150px;
+	background-color: black;
+}

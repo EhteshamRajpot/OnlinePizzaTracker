@@ -1,0 +1,17 @@
+#SuperSection{
+	background: url('./SuperSection.jpg') no-repeat center;
+	background-size: cover;
+	height: 380px;
+}
+#buyNow{
+	background: white;
+	color: black;
+	border: 1px solid white;
+	border-radius: 600px;
+}
+#buyNow:hover {
+	background: none;
+	color: white;
+	transition: 1s;
+
+}

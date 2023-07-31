@@ -1,0 +1,9 @@
+.container-fluid{
+	padding: 0%;
+}
+
+#SuperSection{
+	/* background: url('') no-repeat center; */
+	background-size: cover;
+	height: 380px;
+}
